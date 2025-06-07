@@ -1,0 +1,16 @@
+transformers
+datasets
+accelerate
+peft
+bitsandbytes
+trl
+wandb
+tensorboard
+scipy
+numpy
+tqdm
+sentencepiece
+einops
+pyyaml
+json
+huggingface_hub 
